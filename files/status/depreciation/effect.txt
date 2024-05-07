@@ -1,0 +1,1 @@
+Depreciation is a destructive status effect which causes the latest perk to be removed, the player is slightly harmed and sheds blood when the effect wears off but their latest perk is entirely negated
